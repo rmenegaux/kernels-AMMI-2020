@@ -19,7 +19,7 @@ We then show how positive definite kernels allows to transform these linear mode
 
 ### Course Slides
 
-Slides for the course can be found here: [Slides](http://members.cbio.mines-paristech.fr/~jvert/svn/kernelcourse/slides/ammi2019/ammi2019.pdf)
+Slides for the course can be found here: [Slides](http://members.cbio.mines-paristech.fr/~jvert/svn/kernelcourse/slides/ammi2020/ammi2020.pdf)
 
 ### Requirements
 
