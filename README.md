@@ -27,6 +27,8 @@ For practical sessions, a working [jupyter notebook](https://jupyter.org/install
 
 ### Data Challenge
 
+See the dedicated [kaggle](https://www.kaggle.com/t/91bfaf158d2b4845871297406197d79a)
+
 ### AMMI 2019
 
 For practice exercises and quizzes, please check out last year's [course material](http://members.cbio.mines-paristech.fr/~jvert/svn/kernelcourse/course/2019ammi/index.html)
